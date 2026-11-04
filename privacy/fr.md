@@ -20,7 +20,6 @@ En utilisant l’application, vous pouvez saisir les dates de vos règles, vos s
 
 ## Fonctions facultatives
 
-- **Synchronisation iCloud (Premium, facultative).** Si vous l’activez, vos données sont enregistrées dans votre propre base privée iCloud (CloudKit), soumise aux conditions et à la politique de confidentialité d’Apple. Le développeur n’y a pas accès.
 - **Santé d’Apple (facultatif).** Si vous donnez votre autorisation, l’application peut lire et écrire des données menstruelles dans Santé. Ces données restent entre vous, l’application sur votre appareil et Santé. Le développeur ne les reçoit pas.
 - **Notifications.** Les rappels sont programmés localement sur votre appareil. Vous pouvez masquer leur contenu dans les Réglages.
 - **Face ID, Touch ID et code PIN.** La vérification biométrique est gérée par iOS et l’application ne reçoit jamais vos données biométriques. Le code PIN, si vous en définissez un, est enregistré dans le trousseau (Keychain) de votre appareil.
@@ -40,7 +39,7 @@ CycleCalm ne s’adresse pas aux enfants de moins de 13 ans et ne collecte pas s
 
 ## Conservation et suppression des données
 
-Vos données restent sur votre appareil jusqu’à ce que vous les supprimiez. Vous pouvez tout effacer dans l’application via **Réglages → Supprimer toutes les données**. La suppression de l’application efface aussi ses données locales. Si vous avez utilisé la synchronisation iCloud, vous pouvez supprimer les données de l’application dans les réglages iCloud de votre iPhone (**Réglages → [votre nom] → iCloud → Gérer le stockage**).
+Vos données restent sur votre appareil jusqu’à ce que vous les supprimiez. Vous pouvez tout effacer dans l’application via **Réglages → Supprimer toutes les données**. La suppression de l’application efface aussi ses données locales.
 
 ## Sécurité
 

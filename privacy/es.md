@@ -20,7 +20,6 @@ Al usar la aplicación puedes introducir fechas de tu regla, síntomas, estado d
 
 ## Funciones opcionales
 
-- **Sincronización con iCloud (Premium, opcional).** Si la activas, tus datos se guardan en tu propia base de datos privada de iCloud (CloudKit), que se rige por los términos y la política de privacidad de Apple. El desarrollador no puede acceder a ella.
 - **Apple Salud (opcional).** Si das tu permiso, la aplicación puede leer y escribir datos menstruales en Apple Salud. Estos datos quedan entre tú, la aplicación en tu dispositivo y Apple Salud. El desarrollador no los recibe.
 - **Notificaciones.** Los recordatorios se programan localmente en tu dispositivo. Puedes ocultar su contenido en Ajustes.
 - **Face ID, Touch ID y PIN.** iOS gestiona la verificación biométrica y la aplicación nunca recibe tus datos biométricos. El PIN, si lo configuras, se guarda en el llavero (Keychain) de tu dispositivo.
@@ -40,7 +39,7 @@ CycleCalm no está dirigida a menores de 13 años y no recopila a sabiendas dato
 
 ## Conservación y eliminación de datos
 
-Tus datos permanecen en tu dispositivo hasta que los elimines. Puedes borrarlo todo en la aplicación en **Ajustes → Eliminar todos los datos**. Al eliminar la aplicación también se eliminan sus datos locales. Si usaste la sincronización con iCloud, puedes eliminar los datos de la aplicación en los ajustes de iCloud de tu iPhone (**Ajustes → [tu nombre] → iCloud → Gestionar almacenamiento**).
+Tus datos permanecen en tu dispositivo hasta que los elimines. Puedes borrarlo todo en la aplicación en **Ajustes → Eliminar todos los datos**. Al eliminar la aplicación también se eliminan sus datos locales.
 
 ## Seguridad
 
